@@ -1,0 +1,24 @@
+.custom-search-bar {
+    background-color: white !important;
+    color: black !important;
+}
+
+.custom-search-bar:focus {
+    background-color: white !important;
+    color: black !important;
+}
+
+.custom-search-bar::placeholder {
+    color: #333 !important;
+    opacity: 1 !important;
+}
+
+.search-button {
+    border-color: #1d899d !important;
+    color: #1d899d !important;
+}
+
+.search-button:hover {
+    background-color: #1d899d !important;
+    color: white !important;
+}

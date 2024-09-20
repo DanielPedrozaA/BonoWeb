@@ -1,0 +1,16 @@
+.progress-bar-input {
+    border-radius: 50px;
+    width: 30%;
+    height: 25px;
+}
+
+.form-group {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.custom-progress-bar .progress-bar {
+    background-color: #f56a70;
+}

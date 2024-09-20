@@ -1,0 +1,28 @@
+.mirror {
+    transform: scaleX(-1);
+}
+
+.custom-search-bar180 {
+    background-color: white !important;
+    color: black !important;
+}
+
+.custom-search-bar180:focus {
+    background-color: white !important;
+    color: black !important;
+}
+
+.custom-search-bar180::placeholder {
+    color: #333 !important;
+    opacity: 1 !important;
+}
+
+.search-button180 {
+    border-color: #1d899d !important;
+    color: #1d899d !important;
+}
+
+.search-button180:hover {
+    background-color: #1d899d !important;
+    color: white !important;
+}
