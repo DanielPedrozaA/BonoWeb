@@ -1,0 +1,40 @@
+.timer {
+    text-align: center;
+}
+
+.timer_container h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.start-button {
+    background-color: green;
+    color: white;
+}
+
+.stop-button {
+    background-color: red;
+    color: white;
+}
+
+.reset-button {
+    background-color: yellow;
+    color: black;
+}
+
+button:hover {
+    opacity: 0.8;
+}
